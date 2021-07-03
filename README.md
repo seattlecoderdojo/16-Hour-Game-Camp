@@ -33,7 +33,7 @@ The course will alternate between learning concepts and putting them into practi
 
 There are 9 subfolders: 8 for session content and one for resources and assets.
 
-## [Get Started with Session 1](Session 1/readme.md)!
+## [Get Started with Session 1](https://github.com/seattlecoderdojo/16-Hour-Game-Camp/blob/main/Session%201/README.md)!
 
 
 
