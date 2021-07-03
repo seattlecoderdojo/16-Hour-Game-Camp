@@ -12,7 +12,7 @@ PlayCanvas will provide all the software tools we'll need for this course in the
 
 The top of the screen will have a tab titled "Explore." Click it and you can explore a number of games created with PlayCanvas. The one we're going to try is called "[Keepy Up.](https://playcanv.as/p/XtfZXpxU/)"
 
-![Keepy Up Title Screen](../Resources and Assets/tutorial_images/keepy_up_open_screen_1.jpg)
+![Keepy Up Title Screen](../Resources%20and%20Assets/tutorial_images/keepy_up_open_screen_1.jpg)
 
 Try and play it.
 
